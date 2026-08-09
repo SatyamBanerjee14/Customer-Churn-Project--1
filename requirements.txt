@@ -3,5 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-Logistic regression
+Logistic 
 jupyter 
