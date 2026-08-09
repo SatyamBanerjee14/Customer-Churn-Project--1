@@ -236,14 +236,14 @@ Potential future improvements include:
 
 ##  Technologies Used
 
-1* Python
-2* Pandas
-3* NumPy
-4* Scikit-learn
-5* XGBoost
-6* Matplotlib
-7* Seaborn
-8* Jupyter Notebook
+1. Python
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Logistic Regression
+6. Matplotlib
+7. Seaborn
+8. Jupyter Notebook
 
 
 
